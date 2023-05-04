@@ -118,4 +118,3 @@ TargetHostName: !CopyValue [!Sub 'dca-dev-DockerFargateStack-LoadBalancerDNS', !
 ```
 
 (You would also replace `DnTDevAccount` with the name of the account in which the application is deployed.)
- 
